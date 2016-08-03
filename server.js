@@ -8,11 +8,6 @@ var body2 = '';
 var userData = [];
 
 
-
-
-
-
-
 //Call for inspection records around a certain LatLng
 function apiBackbone(response, query) {
 
