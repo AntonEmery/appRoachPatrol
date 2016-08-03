@@ -232,5 +232,5 @@ router.addRoute("/*", st({
 
 //Creating server and start listening on port 8080
 var server = http.createServer(router);
-server.listen(process.env.PORT || 8080);
-console.log('server listening on port # 8080');
+server.listen(8081);
+console.log('server listening on port # 8081');
