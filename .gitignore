@@ -1,8 +1,4 @@
 /node_modules
 .DS_Store
-.env
-Procfile
-# Elastic Beanstalk Files
-.elasticbeanstalk/*
-!.elasticbeanstalk/*.cfg.yml
-!.elasticbeanstalk/*.global.yml
+
+
